@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Env (contact form ID — do not commit)
+.env
+.env.local
+.env.*.local
+
+# Build
+dist
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
